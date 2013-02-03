@@ -1,0 +1,14 @@
+{
+    "name": "simple-xml-parser",
+    "version": "0.0.2",
+    "description": "good for extracting xml values from small sized xml data",
+    "main": "./lib/SimpleXmlParser.js",  
+    "devDependencies": {
+        "vows": "*",        
+        "xml2js": "*",
+        "async": "*"
+    },
+    "engine": {
+        "node": ">=0.8"
+    }
+}
