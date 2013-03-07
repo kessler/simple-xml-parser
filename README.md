@@ -2,7 +2,7 @@ simple xml parser
 =================
 
 More of an extractor than a parser. This library should only be used on small xml data, that is expected to be mostly well formed. It should be very fast for this niche. 
-
+Please note that data is extracted only once (no arrays and such) and in the order it was declared
 
 ### Usage
 
