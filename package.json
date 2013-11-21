@@ -1,14 +1,17 @@
 {
-    "name": "simple-xml-parser",
-    "version": "0.0.3",
-    "description": "good for extracting xml values from small sized xml data",
-    "main": "./lib/SimpleXmlParser.js",  
-    "devDependencies": {
-        "vows": "*",        
-        "xml2js": "*",
-        "async": "*"
-    },
-    "engine": {
-        "node": ">=0.8"
-    }
+  "name": "simple-xml-parser",
+  "version": "1.0.0",
+  "description": "good for extracting xml values from small sized xml data",
+  "main": "./lib/SimpleXmlParser.js",
+  "devDependencies": {
+    "xml2js": "*",
+    "async": "*",
+    "node-expat": "*"
+  },
+  "engine": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "string-stream": "0.0.7"
+  }
 }

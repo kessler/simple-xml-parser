@@ -4,7 +4,7 @@
 	<heading>reminder</heading>
 	<body1>Don't forget me this weekend!</body1>
 	<from1>jani</from1>
-	<heading1>reminder</heading1>
+	<!-->reminder</heading1-->
 	<body2>Don't forget me this weekend!</body2>
 	<from2>jani</from2>
 	<heading2>reminder</heading2>
@@ -18,4 +18,12 @@
 	<from5>jani</from5>
 	<heading5>reminder</heading5>
 	<body6>Don't forget me this weekend!</body6>
+	<heading6>reminder</heading6>
+	<body7>Don't forget me this weekend!</body7>
+	<heading7>reminder</heading7>
+	<body8>Don't forget me this weekend!</body8>
+	<heading8>reminder</heading8>
+	<body9>Don't forget me this weekend!</body9>
+	<heading9>reminder</heading9>
+	<body10>Don't forget me this weekend!</body10>
 </note>
